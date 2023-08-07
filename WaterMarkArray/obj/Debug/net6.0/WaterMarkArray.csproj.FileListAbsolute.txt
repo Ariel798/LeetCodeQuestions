@@ -1,0 +1,15 @@
+C:\Users\ayose\Documents\Developments\C#\LeetCode\WaterMarkArray\bin\Debug\net6.0\WaterMarkArray.exe
+C:\Users\ayose\Documents\Developments\C#\LeetCode\WaterMarkArray\bin\Debug\net6.0\WaterMarkArray.deps.json
+C:\Users\ayose\Documents\Developments\C#\LeetCode\WaterMarkArray\bin\Debug\net6.0\WaterMarkArray.runtimeconfig.json
+C:\Users\ayose\Documents\Developments\C#\LeetCode\WaterMarkArray\bin\Debug\net6.0\WaterMarkArray.dll
+C:\Users\ayose\Documents\Developments\C#\LeetCode\WaterMarkArray\bin\Debug\net6.0\WaterMarkArray.pdb
+C:\Users\ayose\Documents\Developments\C#\LeetCode\WaterMarkArray\obj\Debug\net6.0\WaterMarkArray.csproj.AssemblyReference.cache
+C:\Users\ayose\Documents\Developments\C#\LeetCode\WaterMarkArray\obj\Debug\net6.0\WaterMarkArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayose\Documents\Developments\C#\LeetCode\WaterMarkArray\obj\Debug\net6.0\WaterMarkArray.AssemblyInfoInputs.cache
+C:\Users\ayose\Documents\Developments\C#\LeetCode\WaterMarkArray\obj\Debug\net6.0\WaterMarkArray.AssemblyInfo.cs
+C:\Users\ayose\Documents\Developments\C#\LeetCode\WaterMarkArray\obj\Debug\net6.0\WaterMarkArray.csproj.CoreCompileInputs.cache
+C:\Users\ayose\Documents\Developments\C#\LeetCode\WaterMarkArray\obj\Debug\net6.0\WaterMarkArray.dll
+C:\Users\ayose\Documents\Developments\C#\LeetCode\WaterMarkArray\obj\Debug\net6.0\refint\WaterMarkArray.dll
+C:\Users\ayose\Documents\Developments\C#\LeetCode\WaterMarkArray\obj\Debug\net6.0\WaterMarkArray.pdb
+C:\Users\ayose\Documents\Developments\C#\LeetCode\WaterMarkArray\obj\Debug\net6.0\WaterMarkArray.genruntimeconfig.cache
+C:\Users\ayose\Documents\Developments\C#\LeetCode\WaterMarkArray\obj\Debug\net6.0\ref\WaterMarkArray.dll

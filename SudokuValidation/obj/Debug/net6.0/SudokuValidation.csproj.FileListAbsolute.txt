@@ -1,0 +1,15 @@
+C:\Users\ayose\Documents\Developments\LeetCode\SudokuValidation\bin\Debug\net6.0\SudokuValidation.exe
+C:\Users\ayose\Documents\Developments\LeetCode\SudokuValidation\bin\Debug\net6.0\SudokuValidation.deps.json
+C:\Users\ayose\Documents\Developments\LeetCode\SudokuValidation\bin\Debug\net6.0\SudokuValidation.runtimeconfig.json
+C:\Users\ayose\Documents\Developments\LeetCode\SudokuValidation\bin\Debug\net6.0\SudokuValidation.dll
+C:\Users\ayose\Documents\Developments\LeetCode\SudokuValidation\bin\Debug\net6.0\SudokuValidation.pdb
+C:\Users\ayose\Documents\Developments\LeetCode\SudokuValidation\obj\Debug\net6.0\SudokuValidation.csproj.AssemblyReference.cache
+C:\Users\ayose\Documents\Developments\LeetCode\SudokuValidation\obj\Debug\net6.0\SudokuValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayose\Documents\Developments\LeetCode\SudokuValidation\obj\Debug\net6.0\SudokuValidation.AssemblyInfoInputs.cache
+C:\Users\ayose\Documents\Developments\LeetCode\SudokuValidation\obj\Debug\net6.0\SudokuValidation.AssemblyInfo.cs
+C:\Users\ayose\Documents\Developments\LeetCode\SudokuValidation\obj\Debug\net6.0\SudokuValidation.csproj.CoreCompileInputs.cache
+C:\Users\ayose\Documents\Developments\LeetCode\SudokuValidation\obj\Debug\net6.0\SudokuValidation.dll
+C:\Users\ayose\Documents\Developments\LeetCode\SudokuValidation\obj\Debug\net6.0\refint\SudokuValidation.dll
+C:\Users\ayose\Documents\Developments\LeetCode\SudokuValidation\obj\Debug\net6.0\SudokuValidation.pdb
+C:\Users\ayose\Documents\Developments\LeetCode\SudokuValidation\obj\Debug\net6.0\SudokuValidation.genruntimeconfig.cache
+C:\Users\ayose\Documents\Developments\LeetCode\SudokuValidation\obj\Debug\net6.0\ref\SudokuValidation.dll

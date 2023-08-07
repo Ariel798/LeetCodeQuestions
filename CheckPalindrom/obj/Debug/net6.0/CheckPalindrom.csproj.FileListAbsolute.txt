@@ -1,0 +1,15 @@
+C:\Users\ayose\Documents\Developments\LeetCode\CheckPalindrom\bin\Debug\net6.0\CheckPalindrom.exe
+C:\Users\ayose\Documents\Developments\LeetCode\CheckPalindrom\bin\Debug\net6.0\CheckPalindrom.deps.json
+C:\Users\ayose\Documents\Developments\LeetCode\CheckPalindrom\bin\Debug\net6.0\CheckPalindrom.runtimeconfig.json
+C:\Users\ayose\Documents\Developments\LeetCode\CheckPalindrom\bin\Debug\net6.0\CheckPalindrom.dll
+C:\Users\ayose\Documents\Developments\LeetCode\CheckPalindrom\bin\Debug\net6.0\CheckPalindrom.pdb
+C:\Users\ayose\Documents\Developments\LeetCode\CheckPalindrom\obj\Debug\net6.0\CheckPalindrom.csproj.AssemblyReference.cache
+C:\Users\ayose\Documents\Developments\LeetCode\CheckPalindrom\obj\Debug\net6.0\CheckPalindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayose\Documents\Developments\LeetCode\CheckPalindrom\obj\Debug\net6.0\CheckPalindrom.AssemblyInfoInputs.cache
+C:\Users\ayose\Documents\Developments\LeetCode\CheckPalindrom\obj\Debug\net6.0\CheckPalindrom.AssemblyInfo.cs
+C:\Users\ayose\Documents\Developments\LeetCode\CheckPalindrom\obj\Debug\net6.0\CheckPalindrom.csproj.CoreCompileInputs.cache
+C:\Users\ayose\Documents\Developments\LeetCode\CheckPalindrom\obj\Debug\net6.0\CheckPalindrom.dll
+C:\Users\ayose\Documents\Developments\LeetCode\CheckPalindrom\obj\Debug\net6.0\refint\CheckPalindrom.dll
+C:\Users\ayose\Documents\Developments\LeetCode\CheckPalindrom\obj\Debug\net6.0\CheckPalindrom.pdb
+C:\Users\ayose\Documents\Developments\LeetCode\CheckPalindrom\obj\Debug\net6.0\CheckPalindrom.genruntimeconfig.cache
+C:\Users\ayose\Documents\Developments\LeetCode\CheckPalindrom\obj\Debug\net6.0\ref\CheckPalindrom.dll

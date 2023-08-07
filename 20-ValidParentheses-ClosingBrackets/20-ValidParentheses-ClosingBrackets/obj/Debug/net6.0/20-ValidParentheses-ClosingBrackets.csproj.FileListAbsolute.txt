@@ -1,0 +1,15 @@
+C:\Users\ayose\Documents\Developments\LeetCode\20-ValidParentheses-ClosingBrackets\20-ValidParentheses-ClosingBrackets\bin\Debug\net6.0\20-ValidParentheses-ClosingBrackets.exe
+C:\Users\ayose\Documents\Developments\LeetCode\20-ValidParentheses-ClosingBrackets\20-ValidParentheses-ClosingBrackets\bin\Debug\net6.0\20-ValidParentheses-ClosingBrackets.deps.json
+C:\Users\ayose\Documents\Developments\LeetCode\20-ValidParentheses-ClosingBrackets\20-ValidParentheses-ClosingBrackets\bin\Debug\net6.0\20-ValidParentheses-ClosingBrackets.runtimeconfig.json
+C:\Users\ayose\Documents\Developments\LeetCode\20-ValidParentheses-ClosingBrackets\20-ValidParentheses-ClosingBrackets\bin\Debug\net6.0\20-ValidParentheses-ClosingBrackets.dll
+C:\Users\ayose\Documents\Developments\LeetCode\20-ValidParentheses-ClosingBrackets\20-ValidParentheses-ClosingBrackets\bin\Debug\net6.0\20-ValidParentheses-ClosingBrackets.pdb
+C:\Users\ayose\Documents\Developments\LeetCode\20-ValidParentheses-ClosingBrackets\20-ValidParentheses-ClosingBrackets\obj\Debug\net6.0\20-ValidParentheses-ClosingBrackets.csproj.AssemblyReference.cache
+C:\Users\ayose\Documents\Developments\LeetCode\20-ValidParentheses-ClosingBrackets\20-ValidParentheses-ClosingBrackets\obj\Debug\net6.0\20-ValidParentheses-ClosingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayose\Documents\Developments\LeetCode\20-ValidParentheses-ClosingBrackets\20-ValidParentheses-ClosingBrackets\obj\Debug\net6.0\20-ValidParentheses-ClosingBrackets.AssemblyInfoInputs.cache
+C:\Users\ayose\Documents\Developments\LeetCode\20-ValidParentheses-ClosingBrackets\20-ValidParentheses-ClosingBrackets\obj\Debug\net6.0\20-ValidParentheses-ClosingBrackets.AssemblyInfo.cs
+C:\Users\ayose\Documents\Developments\LeetCode\20-ValidParentheses-ClosingBrackets\20-ValidParentheses-ClosingBrackets\obj\Debug\net6.0\20-ValidParentheses-ClosingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\ayose\Documents\Developments\LeetCode\20-ValidParentheses-ClosingBrackets\20-ValidParentheses-ClosingBrackets\obj\Debug\net6.0\20-ValidParentheses-ClosingBrackets.dll
+C:\Users\ayose\Documents\Developments\LeetCode\20-ValidParentheses-ClosingBrackets\20-ValidParentheses-ClosingBrackets\obj\Debug\net6.0\refint\20-ValidParentheses-ClosingBrackets.dll
+C:\Users\ayose\Documents\Developments\LeetCode\20-ValidParentheses-ClosingBrackets\20-ValidParentheses-ClosingBrackets\obj\Debug\net6.0\20-ValidParentheses-ClosingBrackets.pdb
+C:\Users\ayose\Documents\Developments\LeetCode\20-ValidParentheses-ClosingBrackets\20-ValidParentheses-ClosingBrackets\obj\Debug\net6.0\20-ValidParentheses-ClosingBrackets.genruntimeconfig.cache
+C:\Users\ayose\Documents\Developments\LeetCode\20-ValidParentheses-ClosingBrackets\20-ValidParentheses-ClosingBrackets\obj\Debug\net6.0\ref\20-ValidParentheses-ClosingBrackets.dll

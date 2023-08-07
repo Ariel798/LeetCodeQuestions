@@ -1,0 +1,15 @@
+C:\Users\ayose\Documents\Developments\LeetCode\TwoSums\bin\Debug\net7.0\TwoSums.exe
+C:\Users\ayose\Documents\Developments\LeetCode\TwoSums\bin\Debug\net7.0\TwoSums.deps.json
+C:\Users\ayose\Documents\Developments\LeetCode\TwoSums\bin\Debug\net7.0\TwoSums.runtimeconfig.json
+C:\Users\ayose\Documents\Developments\LeetCode\TwoSums\bin\Debug\net7.0\TwoSums.dll
+C:\Users\ayose\Documents\Developments\LeetCode\TwoSums\bin\Debug\net7.0\TwoSums.pdb
+C:\Users\ayose\Documents\Developments\LeetCode\TwoSums\obj\Debug\net7.0\TwoSums.csproj.AssemblyReference.cache
+C:\Users\ayose\Documents\Developments\LeetCode\TwoSums\obj\Debug\net7.0\TwoSums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayose\Documents\Developments\LeetCode\TwoSums\obj\Debug\net7.0\TwoSums.AssemblyInfoInputs.cache
+C:\Users\ayose\Documents\Developments\LeetCode\TwoSums\obj\Debug\net7.0\TwoSums.AssemblyInfo.cs
+C:\Users\ayose\Documents\Developments\LeetCode\TwoSums\obj\Debug\net7.0\TwoSums.csproj.CoreCompileInputs.cache
+C:\Users\ayose\Documents\Developments\LeetCode\TwoSums\obj\Debug\net7.0\TwoSums.dll
+C:\Users\ayose\Documents\Developments\LeetCode\TwoSums\obj\Debug\net7.0\refint\TwoSums.dll
+C:\Users\ayose\Documents\Developments\LeetCode\TwoSums\obj\Debug\net7.0\TwoSums.pdb
+C:\Users\ayose\Documents\Developments\LeetCode\TwoSums\obj\Debug\net7.0\TwoSums.genruntimeconfig.cache
+C:\Users\ayose\Documents\Developments\LeetCode\TwoSums\obj\Debug\net7.0\ref\TwoSums.dll

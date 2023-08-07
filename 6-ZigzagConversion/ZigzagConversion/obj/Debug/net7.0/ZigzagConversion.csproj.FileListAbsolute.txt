@@ -1,0 +1,15 @@
+C:\Users\ayose\Documents\Developments\LeetCode\6-ZigzagConversion\ZigzagConversion\bin\Debug\net7.0\ZigzagConversion.exe
+C:\Users\ayose\Documents\Developments\LeetCode\6-ZigzagConversion\ZigzagConversion\bin\Debug\net7.0\ZigzagConversion.deps.json
+C:\Users\ayose\Documents\Developments\LeetCode\6-ZigzagConversion\ZigzagConversion\bin\Debug\net7.0\ZigzagConversion.runtimeconfig.json
+C:\Users\ayose\Documents\Developments\LeetCode\6-ZigzagConversion\ZigzagConversion\bin\Debug\net7.0\ZigzagConversion.dll
+C:\Users\ayose\Documents\Developments\LeetCode\6-ZigzagConversion\ZigzagConversion\bin\Debug\net7.0\ZigzagConversion.pdb
+C:\Users\ayose\Documents\Developments\LeetCode\6-ZigzagConversion\ZigzagConversion\obj\Debug\net7.0\ZigzagConversion.csproj.AssemblyReference.cache
+C:\Users\ayose\Documents\Developments\LeetCode\6-ZigzagConversion\ZigzagConversion\obj\Debug\net7.0\ZigzagConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayose\Documents\Developments\LeetCode\6-ZigzagConversion\ZigzagConversion\obj\Debug\net7.0\ZigzagConversion.AssemblyInfoInputs.cache
+C:\Users\ayose\Documents\Developments\LeetCode\6-ZigzagConversion\ZigzagConversion\obj\Debug\net7.0\ZigzagConversion.AssemblyInfo.cs
+C:\Users\ayose\Documents\Developments\LeetCode\6-ZigzagConversion\ZigzagConversion\obj\Debug\net7.0\ZigzagConversion.csproj.CoreCompileInputs.cache
+C:\Users\ayose\Documents\Developments\LeetCode\6-ZigzagConversion\ZigzagConversion\obj\Debug\net7.0\ZigzagConversion.dll
+C:\Users\ayose\Documents\Developments\LeetCode\6-ZigzagConversion\ZigzagConversion\obj\Debug\net7.0\refint\ZigzagConversion.dll
+C:\Users\ayose\Documents\Developments\LeetCode\6-ZigzagConversion\ZigzagConversion\obj\Debug\net7.0\ZigzagConversion.pdb
+C:\Users\ayose\Documents\Developments\LeetCode\6-ZigzagConversion\ZigzagConversion\obj\Debug\net7.0\ZigzagConversion.genruntimeconfig.cache
+C:\Users\ayose\Documents\Developments\LeetCode\6-ZigzagConversion\ZigzagConversion\obj\Debug\net7.0\ref\ZigzagConversion.dll

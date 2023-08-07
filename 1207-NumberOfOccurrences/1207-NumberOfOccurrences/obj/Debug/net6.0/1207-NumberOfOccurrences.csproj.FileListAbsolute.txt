@@ -1,0 +1,15 @@
+C:\Users\ayose\Documents\Developments\LeetCode\1207-NumberOfOccurrences\1207-NumberOfOccurrences\bin\Debug\net6.0\1207-NumberOfOccurrences.exe
+C:\Users\ayose\Documents\Developments\LeetCode\1207-NumberOfOccurrences\1207-NumberOfOccurrences\bin\Debug\net6.0\1207-NumberOfOccurrences.deps.json
+C:\Users\ayose\Documents\Developments\LeetCode\1207-NumberOfOccurrences\1207-NumberOfOccurrences\bin\Debug\net6.0\1207-NumberOfOccurrences.runtimeconfig.json
+C:\Users\ayose\Documents\Developments\LeetCode\1207-NumberOfOccurrences\1207-NumberOfOccurrences\bin\Debug\net6.0\1207-NumberOfOccurrences.dll
+C:\Users\ayose\Documents\Developments\LeetCode\1207-NumberOfOccurrences\1207-NumberOfOccurrences\bin\Debug\net6.0\1207-NumberOfOccurrences.pdb
+C:\Users\ayose\Documents\Developments\LeetCode\1207-NumberOfOccurrences\1207-NumberOfOccurrences\obj\Debug\net6.0\1207-NumberOfOccurrences.csproj.AssemblyReference.cache
+C:\Users\ayose\Documents\Developments\LeetCode\1207-NumberOfOccurrences\1207-NumberOfOccurrences\obj\Debug\net6.0\1207-NumberOfOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayose\Documents\Developments\LeetCode\1207-NumberOfOccurrences\1207-NumberOfOccurrences\obj\Debug\net6.0\1207-NumberOfOccurrences.AssemblyInfoInputs.cache
+C:\Users\ayose\Documents\Developments\LeetCode\1207-NumberOfOccurrences\1207-NumberOfOccurrences\obj\Debug\net6.0\1207-NumberOfOccurrences.AssemblyInfo.cs
+C:\Users\ayose\Documents\Developments\LeetCode\1207-NumberOfOccurrences\1207-NumberOfOccurrences\obj\Debug\net6.0\1207-NumberOfOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\ayose\Documents\Developments\LeetCode\1207-NumberOfOccurrences\1207-NumberOfOccurrences\obj\Debug\net6.0\1207-NumberOfOccurrences.dll
+C:\Users\ayose\Documents\Developments\LeetCode\1207-NumberOfOccurrences\1207-NumberOfOccurrences\obj\Debug\net6.0\refint\1207-NumberOfOccurrences.dll
+C:\Users\ayose\Documents\Developments\LeetCode\1207-NumberOfOccurrences\1207-NumberOfOccurrences\obj\Debug\net6.0\1207-NumberOfOccurrences.pdb
+C:\Users\ayose\Documents\Developments\LeetCode\1207-NumberOfOccurrences\1207-NumberOfOccurrences\obj\Debug\net6.0\1207-NumberOfOccurrences.genruntimeconfig.cache
+C:\Users\ayose\Documents\Developments\LeetCode\1207-NumberOfOccurrences\1207-NumberOfOccurrences\obj\Debug\net6.0\ref\1207-NumberOfOccurrences.dll
