@@ -1,0 +1,16 @@
+C:\Users\ayose\Documents\Developments\LeetCode\Kadane'sAlgorithm-G4G\Solution\Solution\bin\Debug\Solution.exe.config
+C:\Users\ayose\Documents\Developments\LeetCode\Kadane'sAlgorithm-G4G\Solution\Solution\bin\Debug\Solution.exe
+C:\Users\ayose\Documents\Developments\LeetCode\Kadane'sAlgorithm-G4G\Solution\Solution\bin\Debug\Solution.pdb
+C:\Users\ayose\Documents\Developments\LeetCode\Kadane'sAlgorithm-G4G\Solution\Solution\obj\Debug\Solution.csproj.AssemblyReference.cache
+C:\Users\ayose\Documents\Developments\LeetCode\Kadane'sAlgorithm-G4G\Solution\Solution\obj\Debug\Solution.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayose\Documents\Developments\LeetCode\Kadane'sAlgorithm-G4G\Solution\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+C:\Users\ayose\Documents\Developments\LeetCode\Kadane'sAlgorithm-G4G\Solution\Solution\obj\Debug\Solution.exe
+C:\Users\ayose\Documents\Developments\LeetCode\Kadane'sAlgorithm-G4G\Solution\Solution\obj\Debug\Solution.pdb
+C:\Users\ayose\Documents\Developments\LeetCode\1114. Print in Order\Solution\Solution\bin\Debug\Solution.exe.config
+C:\Users\ayose\Documents\Developments\LeetCode\1114. Print in Order\Solution\Solution\bin\Debug\Solution.exe
+C:\Users\ayose\Documents\Developments\LeetCode\1114. Print in Order\Solution\Solution\bin\Debug\Solution.pdb
+C:\Users\ayose\Documents\Developments\LeetCode\1114. Print in Order\Solution\Solution\obj\Debug\Solution.csproj.AssemblyReference.cache
+C:\Users\ayose\Documents\Developments\LeetCode\1114. Print in Order\Solution\Solution\obj\Debug\Solution.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayose\Documents\Developments\LeetCode\1114. Print in Order\Solution\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+C:\Users\ayose\Documents\Developments\LeetCode\1114. Print in Order\Solution\Solution\obj\Debug\Solution.exe
+C:\Users\ayose\Documents\Developments\LeetCode\1114. Print in Order\Solution\Solution\obj\Debug\Solution.pdb
